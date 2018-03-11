@@ -1,4 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit');
+
+* {
+    font-family: 'Kanit', sans-serif;
+}
+
 #map {
+    border-radius:50px;
     height:400px;
     width:100%;
 }
